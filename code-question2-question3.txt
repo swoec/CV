@@ -1,0 +1,76 @@
+
+function getDates(dates){
+  
+  //var dates =["2000-10-28","1950-10-28","2050-08-28","1987-02-28"];
+  var reg = /^[1-9]\d{3}-(0[1-9]|1[0-2])-(0[1-9]|[1-2][0-9]|3[0-1])$/;
+  var regExp = new RegExp(reg);
+  var result = dates.map(function(v){
+     if(!regExp.test(v)){
+       return 'NA';
+     }
+  
+     //v = v.replace("-","\/");
+     var date = new Date(v);
+     return date.getTime();
+    
+  });
+ 
+  return result.sort();
+}
+
+
+
+function CheckPassword(values){
+  
+  var reg = ^(?![A-Z]+$)(?![a-z]+$)(?![0-9]+$)(?!\d+$)(?![\W_]+$)\S{8,50}$;
+  var regExp = new RegExp(reg);
+  if(!regExp.test(values)){
+        window.alert("invalid");
+   }
+                                                          
+   var sum ;                       
+   if(var i = 0; i<values.length; i++){
+        sum += values[i].charCodeAt().toString(2);
+                                                                                                                  
+   }  
+   window.alert(sum.length);
+                                                                                                       
+                                               
+}
+
+
+
+var flattened = [], minValue, maxValue;
+arr.forEach(function (v) {
+    Array.prototype.push.apply(flattened, v);
+});
+
+minValue = Math.min.apply(null, flattened);
+maxValue = Math.max.apply(null, flattened);
+
+
+let
+
+var arr = [[2,3], [4,5]]; //a multidimensional array
+then get an array with each row's maximum with
+
+var maxRow = arr.map(function(row){ return Math.max.apply(Math, row); });
+and the overal maximum with
+
+var max = Math.max.apply(null, maxRow);
+
+Object.keys(params).map(k =>
+                    encodeURIComponent(k)+ '=' +
+                    encodeURIComponent(params[k]))
+                    .join('&');
+
+
+  var result = params.map(function(v){
+    if(v === "undefined"){
+       v === ''; 
+    }
+    v = encodeURIComponent(v);
+    
+  });
+  return result;
+

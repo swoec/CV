@@ -1,0 +1,10 @@
+﻿
+As a faithful programming enthusiast working for over ten years, I am very excited to see your posting for the position of full stack web developer. I am positive my skills, qualifications and vital experience can make a great contribution to you. I possess considerable software development knowledge of python, Java,J2EE,JPA,Spring,continuous integration(Jenkins),continuous delivery ,message queue,  Hibernate,Json, Rest API, HTML, CSS, JSP, Servlet, Oracle, MySQL, Eclipse, Git, Jira, JavaScript, JQuery, Shiro, BDD(Junit,Cucumber), BDD(selenium), Maven, UML, Apache Tomcat. 
+As you will see from the attached CV, in my recent experience, I have been involved in CRM system for Nepal telecom, DTU platform, and I design my own framework and upload it to github which is used in many companies as their own framework. My GitHub is https://github.com/swoec/, you can find some of my works,including the framework.
+I’ve viewed your website ,and I know you is a global company that provides solutions for customers. I think it is a fantastic system and it is a perfect match for my personal and professional interests. I would love to leverage my knowledge and skills to achieve great results to your team 
+I’d be thrilled to learn more about this job opening and show you how my experiences can help you to deliver excellence. Thank you very much for your time and consideration for my application. I look forward to hearing from you soon !
+ 
+Best Regards
+ 
+Alex 
+
